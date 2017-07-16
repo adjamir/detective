@@ -1,0 +1,12 @@
+D:\zLPA_GIT\InspectorTools\MQB Detective\MQB Detective\bin\Debug\MQB Detective.exe.config
+D:\zLPA_GIT\InspectorTools\MQB Detective\MQB Detective\bin\Debug\MQB Detective.exe
+D:\zLPA_GIT\InspectorTools\MQB Detective\MQB Detective\bin\Debug\MQB Detective.pdb
+D:\zLPA_GIT\InspectorTools\MQB Detective\MQB Detective\bin\Debug\MQB Detective.xml
+D:\zLPA_GIT\InspectorTools\MQB Detective\MQB Detective\obj\Debug\MQB Detective.vbprojResolveAssemblyReference.cache
+D:\zLPA_GIT\InspectorTools\MQB Detective\MQB Detective\obj\Debug\MQB_Detective.Resources.resources
+D:\zLPA_GIT\InspectorTools\MQB Detective\MQB Detective\obj\Debug\MQB Detective.vbproj.GenerateResource.Cache
+D:\zLPA_GIT\InspectorTools\MQB Detective\MQB Detective\obj\Debug\MQB Detective.exe
+D:\zLPA_GIT\InspectorTools\MQB Detective\MQB Detective\obj\Debug\MQB Detective.xml
+D:\zLPA_GIT\InspectorTools\MQB Detective\MQB Detective\obj\Debug\MQB Detective.pdb
+D:\zLPA_GIT\InspectorTools\MQB Detective\MQB Detective\obj\Debug\MQB_Detective.frmMainForm.resources
+D:\zLPA_GIT\InspectorTools\MQB Detective\MQB Detective\obj\Debug\MQB_Detective.frmOptions.resources
