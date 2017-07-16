@@ -23,9 +23,9 @@ Partial Class frmOptions
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.txtDBName = New System.Windows.Forms.TextBox()
         Me.Label2 = New System.Windows.Forms.Label()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.txtDBConnectionString = New System.Windows.Forms.TextBox()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
@@ -39,12 +39,12 @@ Partial Class frmOptions
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "Database Name"
         '
-        'TextBox1
+        'txtDBName
         '
-        Me.TextBox1.Location = New System.Drawing.Point(169, 41)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(260, 26)
-        Me.TextBox1.TabIndex = 1
+        Me.txtDBName.Location = New System.Drawing.Point(169, 41)
+        Me.txtDBName.Name = "txtDBName"
+        Me.txtDBName.Size = New System.Drawing.Size(260, 26)
+        Me.txtDBName.TabIndex = 1
         '
         'Label2
         '
@@ -55,12 +55,12 @@ Partial Class frmOptions
         Me.Label2.TabIndex = 0
         Me.Label2.Text = "Connection String"
         '
-        'TextBox2
+        'txtDBConnectionString
         '
-        Me.TextBox2.Location = New System.Drawing.Point(169, 74)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(498, 26)
-        Me.TextBox2.TabIndex = 1
+        Me.txtDBConnectionString.Location = New System.Drawing.Point(169, 74)
+        Me.txtDBConnectionString.Name = "txtDBConnectionString"
+        Me.txtDBConnectionString.Size = New System.Drawing.Size(498, 26)
+        Me.txtDBConnectionString.TabIndex = 1
         '
         'Button1
         '
@@ -87,8 +87,8 @@ Partial Class frmOptions
         Me.ClientSize = New System.Drawing.Size(703, 383)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
-        Me.Controls.Add(Me.TextBox2)
-        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.txtDBConnectionString)
+        Me.Controls.Add(Me.txtDBName)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "frmOptions"
@@ -99,9 +99,9 @@ Partial Class frmOptions
     End Sub
 
     Friend WithEvents Label1 As Label
-    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents txtDBName As TextBox
     Friend WithEvents Label2 As Label
-    Friend WithEvents TextBox2 As TextBox
+    Friend WithEvents txtDBConnectionString As TextBox
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
 End Class
